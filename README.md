@@ -1,5 +1,8 @@
 Airport Challenge
 =================
+Source
+-----
+This repo was originally a fork of a Makers Academy end-of-week challenge: https://github.com/makersacademy/airport_challenge
 
 Task
 -----
